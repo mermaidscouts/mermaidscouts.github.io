@@ -11,6 +11,9 @@
 						<p>{{ site.description }}</p>
 					</li>
 					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+                    {% if site.phone %}<li>
+                        <a href="tel:{{ site.phone }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-phone-square"></i> Phone</a>
+                    </li>{% endif %}
 					{% if site.email %}<li>
                         <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
                     </li>{% endif %}
