@@ -1,26 +1,14 @@
 ---
 layout: page
-title: About Mermaid Scouts
-tags: [about, mermaid]
+title: Mermaid Services
 date: 2018-06-02
 comments: false
 ---
     
-## Services
-* Dry land mermaid at parties
-* Pool parties
+Some of the common services that Mermaid Mira provides are listed bellow, but if you have something else in mind please reach out and we can see what we can do.
 
-## Preview
+* Pool Parties with Mira taking pictures with the attendies before getting into the pool and then swimming with the attendies in the pool.
+* Photo Shoots with Mira in or out of the water
+* Entertainment for a Party, where Mira swims in a pool and interacts with attendies who are not in the water with her.
 
-{% capture images %}
-    /assets/img/child-mermaid.jpg
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-Email us if you are interested.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Whatever you have in mind, email, call, or DM us to get a quote and start planning the event.

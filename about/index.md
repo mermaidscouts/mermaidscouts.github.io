@@ -1,27 +1,22 @@
 ---
 layout: page
 title: About Mermaid Scouts
-tags: [about, mermaid]
 date: 2018-06-02
 comments: false
 ---
     
 # About
 
-I am me and you are me and we are you and we are all together.
+Mermaid Mira is is just your every day mermaid who loves to swim.
+
+In an effot to keep her shell phone on she swims at parties and takes pictures with admiring fans. If you would like to have her at one of your parties so you can show off that you are friends with a mermaid, check out the <a href="\services\">services</a> page, and give her a call or send her an email.
 
 
-## Preview
+
+
+<!-- ## Preview
 
 {% capture images %}
     /assets/img/child-mermaid.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-Email us if you are interested.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %} -->
