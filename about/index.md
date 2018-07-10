@@ -5,7 +5,7 @@ date: 2018-06-02
 comments: false
 ---
     
-# About
+# Mermaid Mira
 
 Mermaid Mira is is just your every day mermaid who loves to swim.
 
