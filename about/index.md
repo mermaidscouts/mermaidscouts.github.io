@@ -4,7 +4,11 @@ title: About Mermaid Scouts
 date: 2018-06-02
 comments: false
 ---
-    
+
+<div class="row">
+	<img href="/assets/img/about.JPG"/>
+</div>
+
 # Mermaid Mira
 
 Mermaid Mira is is just your every day mermaid who loves to swim.
