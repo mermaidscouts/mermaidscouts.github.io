@@ -13,4 +13,7 @@ Some of the common services that Mermaid Mira provides are listed bellow, but if
 
 Whatever you have in mind, email, call, or DM us to get a quote and start planning the event.
 
-{% include social-links.html %}
+
+<div class="row">
+	{% include social-links.html %}
+</div>
