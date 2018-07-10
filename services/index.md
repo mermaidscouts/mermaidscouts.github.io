@@ -6,10 +6,9 @@ date: 2018-06-02
 comments: false
 ---
     
-# About
-
-I am me and you are me and we are you and we are all together.
-
+## Services
+* Dry land mermaid at parties
+* Pool parties
 
 ## Preview
 

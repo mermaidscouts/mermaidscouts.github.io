@@ -48,7 +48,7 @@ facebook:           username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
-#pinterest:         username
+pinterest:         username
 #foursquare:        username
 #steam:              username
 #dribbble:          username
@@ -61,7 +61,7 @@ facebook:           username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-phone:              800-555-0010
+phone:              206-880-1202
 
 # Gems
 gems:
