@@ -6,7 +6,7 @@ comments: false
 ---
 
 <div class="row">
-	<img href="/assets/img/about.JPG"/>
+	<img src="/assets/img/about.JPG"/>
 </div>
 
 # Mermaid Mira
