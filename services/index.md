@@ -6,12 +6,12 @@ comments: false
 ---
    
 # Mermaid Services
- 
-Some of the common services that Mermaid Mira provides are listed bellow, but if you have something else in mind please reach out and we can see what we can do.
 
-* Pool Parties with Mira taking pictures with the attendies before getting into the pool and then swimming with the attendies in the pool.
+Some of the common services that Mermaid Mira provides are listed below, but if you have something else in mind please reach out and we can see what we can do.
+
+* Pool Parties with Mira taking pictures with the attendees before getting into the pool and then swimming with the attendees in the pool.
 * Photo Shoots with Mira in or out of the water
-* Entertainment for a Party, where Mira swims in a pool and interacts with attendies who are not in the water with her.
+* Entertainment for a Party, where Mira swims in a pool and interacts with attendees who are not in the water with her.
 
 Whatever you have in mind, email, call, or DM us to get a quote and start planning the event.
 

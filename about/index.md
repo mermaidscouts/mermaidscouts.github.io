@@ -11,12 +11,11 @@ comments: false
 
 # About Mermaid Mira
 
-Mermaid Mira is is just your every day mermaid who loves to swim.
+Mira has been in love with the water since she was a little guppy. Whether she was in a swimming pool at her local pool or in the east state ocean of Myrtle beach. She loves to swim, almost as much as she loves bringing excitement to young children and adults who have questions about her tail!
 
-In an effot to keep her shell phone on she swims at parties and takes pictures with admiring fans. If you would like to have her at one of your parties so you can show off that you are friends with a mermaid, check out the <a href="\services\">services</a> page, and give her a call or send her an email.
+In an effort to keep her shell phone on, and educate landlubbers about the wonders of the sea, Mira lives to tell stories about her adventures. She has spent her free time swimming competitively with other mermaids, playing water polo, and singing the songs of the siren's. All while she teaches other guppies and young mer-children how to swim before they earn their fins.
 
-
-
+When she is not teaching others how to swim, she splashes down to local lakes to find gadgets and gizmos aplenty, pick up trash and bask in the sun. 
 
 <!-- ## Preview
 
