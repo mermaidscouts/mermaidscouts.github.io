@@ -6,10 +6,10 @@ comments: false
 ---
 
 <div class="row">
-	<img src="/assets/img/about.JPG"/>
+	<img alt="Mira, looking great in a pond" src="/assets/img/about.JPG"/>
 </div>
 
-# Mermaid Mira
+# About Mermaid Mira
 
 Mermaid Mira is is just your every day mermaid who loves to swim.
 
