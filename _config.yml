@@ -32,11 +32,11 @@ sass:
 # if you don't have any of social below, comment the line.
 google:
   #plus:            #username
-  analytics:
-  verify:
-  ad-client:
-  ad-slot:
-bing-verify:
+  analytics:        UA-122396976-1
+  #verify:          #Verified via DNS
+  #ad-client:
+  #ad-slot:
+bing-verify:        91E55C7688ABA346E57D334B18A7EB6A
 email:              mermaidscouts@gmail.com
 #twitter:            username
 facebook:           MermaidScouts
