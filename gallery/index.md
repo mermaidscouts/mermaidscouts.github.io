@@ -13,4 +13,5 @@ comments: false
 	{% endfor %}
 {% endcapture %}
 
+
 {% include gallery images=images caption="" cols=2 %}
