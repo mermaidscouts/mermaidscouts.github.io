@@ -10,4 +10,7 @@ comments: false
 	    {{ file.url }}
 	{% endfor %}
 {% endcapture %}
+{% for file in site.gallery %}
+    <p>{{ file.url }}</p>
+{% endfor %}
 {% include gallery images=images caption="Mermaid Images" cols=2 %}
