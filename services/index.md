@@ -5,6 +5,11 @@ date: 2018-06-02
 comments: false
 ---
    
+
+<div class="row">
+	<img alt="Mira, looking great in a pond" src="/assets/img/services.jpg"/>
+</div>
+
 # Mermaid Services
 
 Some of the common services that Mermaid Mira provides are listed below, but if you have something else in mind please reach out and we can see what we can do.
