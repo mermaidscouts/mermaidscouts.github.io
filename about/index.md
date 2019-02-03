@@ -17,9 +17,7 @@ In an effort to keep her shell phone on, and educate landlubbers about the wonde
 
 When she is not teaching others how to swim, she splashes down to local lakes to find gadgets and gizmos aplenty, pick up trash and bask in the sun. 
 
-<!-- ## Preview
-
 {% capture images %}
-    /assets/img/child-mermaid.jpg
+    /assets/img/about.JPG
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %} -->
+{% include gallery images=images caption="Mermaid Images" cols=2 %}
