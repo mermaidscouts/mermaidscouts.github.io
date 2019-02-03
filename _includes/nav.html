@@ -13,10 +13,10 @@
 					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Learn More</span></a></li>
                     {% if site.phone %}<li>
                         <a href="tel:{{ site.phone }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-phone-square"></i> Phone</a>
-                    </li>{% endif %}
+                    </li><li>{{site.phone}}</li>{% endif %}
 					{% if site.email %}<li>
                         <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
-                    </li>{% endif %}
+                    </li><li>{{site.email}}</li>{% endif %}
                     {% if site.twitter %}<li>
                         <a href="http://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
                     </li>{% endif %}
