@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gallery
+title: Gallery
 date: 2019-02-02
 comments: false
 ---
@@ -12,9 +12,5 @@ comments: false
 	    {% endif %}
 	{% endfor %}
 {% endcapture %}
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/img/gallery' %}
-        <p>{{ image.path }}</p>
-    {% endif %}
-{% endfor %}
-{% include gallery images=images caption="Mermaid Images" cols=2 %}
+
+{% include gallery images=images caption="" cols=2 %}
