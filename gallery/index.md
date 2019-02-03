@@ -6,11 +6,15 @@ comments: false
 ---
 
 {% capture images %}
-    {% for file in site.gallery %}
-	    {{ file.url }}
+    {% for image in site.static_files %}
+	    {% if image.path contains 'assets/img/gallery' %}
+	        {{ image.path }}
+	    {% endif %}
 	{% endfor %}
 {% endcapture %}
-{% for file in site.gallery %}
-    <p>{{ file.url }}</p>
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/img/gallery' %}
+        <p>{{ image.path }}</p>
+    {% endif %}
 {% endfor %}
 {% include gallery images=images caption="Mermaid Images" cols=2 %}

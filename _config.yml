@@ -9,8 +9,6 @@ logo:               'assets/img/logo.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://mermaidscouts.com
-collections:
-  - gallery
 
 # Jekyll
 permalink:          /:title/
