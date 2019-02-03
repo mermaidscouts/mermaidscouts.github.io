@@ -6,6 +6,8 @@ comments: false
 ---
 
 {% capture images %}
-    /assets/img/about.JPG
+    {% for file in directory %}
+	    {{ file.url }}
+	{% endfor %}
 {% endcapture %}
 {% include gallery images=images caption="Mermaid Images" cols=2 %}
